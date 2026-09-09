@@ -1,0 +1,7 @@
+QA 2026-09-08
+- Build y TypeScript pasan correctamente.
+- Pantalla pública revisada en 1280x720 y 390x844.
+- Flujo público muestra únicamente a Lilia Reyes como persona agendable.
+- Panel interno revisado: Resumen y Agenda mensual.
+- Sidebar y tarjetas tienen contraste y lectura clara; responsive móvil implementado.
+- No se modificó server/ ni existe backend real; datos de demo son simulados.
